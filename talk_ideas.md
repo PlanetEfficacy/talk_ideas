@@ -13,7 +13,7 @@ Regular Session
 
 Moving functionality from a majestic monolith to a microservice is hard.
 
-Participants will learn about the mistakes I made while extracting functionality from a majestic monolith into a microservice so they do not have to repeat them in their own service architecture adventures, or better yet, skip the adventure altogether.
+In this talk, participants will learn about the mistakes I made while extracting functionality from a majestic monolith into a microservice so they do not have to repeat them in their own service architecture adventures, or better yet, skip the adventure altogether.
 
 # Details
 ##### Include any pertinent details such as outlines, outcomes or intended audience.
@@ -66,9 +66,9 @@ Replicated the smallest possible unit of value for the business and iterate.
 
 ##### Explain why this talk should be considered and what makes you qualified to speak on the topic.
 
-Microservice misadventures is a talk that will offer lessons relevant to a wide variety of Railsconf participants. From CTO's setting the technology direction of their companies to brand new developers, who are contemplating moving to a service oriented architecture, to individual contributors about to pick up their first microservice story, this talk will describe mistakes that any team might find themselves making on their own microservice misadventure.
+Microservice misadventures is a talk that will offer lessons relevant to a wide variety of Railsconf participants. From CTO's setting the technology direction of their companies to individual contributors about to pick up their first microservice story, this talk will describe mistakes that any team might make on their own microservice misadventure as well as tips for avoiding them.
 
-
+I am excited to give this talk for a few reasons. For starters, I have first hand experience leading a squad of engineers through the work of moving functionality out of a monolith. Next, I am prepared to be open about the mistakes that I made in this process so that the Rails community does not have to repeat them. Finally, I have a unique perspective to offer in this talk because rather than speaking about an entire ecosystem of microservices, I will focus on the unit level - one piece of functionality from a monolith into a microservice.
 
 ## Bio
 
