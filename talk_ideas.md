@@ -15,7 +15,7 @@ Exported Expertise - What non-tech experiences have given you an unexpected expe
 ## Abstract
 ##### A concise, engaging description for the public program. Limited to 600 characters. - no biographical info
 
-How long is the line for the copy machine at your office each morning? When did a subordinate, superior or client last yell at you? What is your company's bathroom break policy?
+How long is the line for the copy machine at your office each morning? When did a subordinate, superior or customer last yell at you? What is your company's bathroom break policy?
 
 My status as a recovering educator may include some bitter memories, but it is not a handicap. It's a super power. Lets explore the phenomenon that is the teacher-turned-coder by looking at communication, planning and stress management practices in both school and software development contexts. You'll learn  how to harness your own teaching sauce to build better software more effectively.
 
@@ -72,7 +72,7 @@ My status as a recovering educator may include some bitter memories, but it is n
 #### Stress Management
 ##### How educators develop effective stress management
   - Schools are demanding, stressful, high stakes work environments
-  - Students, parents and other eductors are demanding customers
+  - Students, parents and other educators are demanding customers
 ##### How stress management applies to software development
   - Production bugs
   - On call rotations
@@ -84,11 +84,11 @@ My status as a recovering educator may include some bitter memories, but it is n
 ## Pitch
 ##### Explain why this talk should be considered and what makes you qualified to speak on the topic.  - no biographical info
 
+When I started work as a software engineer I felt like an imposter and this feeling was exacerbated by the fact that I had left a reasonably successful career in education. I knew the education world had a lot to learn from software developers, which was one of the reasons I wanted to make a change. I worried that I was too far behind my colleagues to ever make a meaningful contribution to my team or advance in my new field. What I have learned in the years since then is that I actually was not lagging behind, but rather brought strengths and previous expertise with me from my former career. I now know that the learning between educators and software developers can be bidirectional.
+
 This talk should be on the 2020 Railsconf program because communication, planning, and stress management are hard. Understanding how these skills can be developed and practiced in a non-software context will empower participants to be more mindful of and potentially even more effective in their own practice. If a group of 2020 Railsconf attendees leave the conference with ideas on how to be better themselves or help others improve in these areas, it will have been time well spent.
 
-I am uniquely qualified to discuss the expertise that educators bring to coding because I have significant experience in K12 public education and as a professional software developer. Prior to becoming a developer I was a middle school teacher, a middle school assistant principal, a high school assistant principal and an education consultant. During my years in education the students, families, teachers, and administrators I worked with dramatically shaped who I am today, and thus the way I build software. I am now a senior engineer. I have delivered multiple projects with significant business impact and non trivial technical complexity. I have hired, onboarded, trained, and mentored new engineers. I bring a depth of experience in both education and software that I hope will be compelling for Railsconf attendees.
-
-When I started work as a software engineer I felt like an imposter and this feeling was exacerbated by the fact that I had left a reasonably successful career in education. I knew the education world had a lot to learn from software developers, which was one of the reasons I wanted to make a change. I worried that I was too far behind my colleagues to ever make a meaningful contribution to my team or advance in my new field. What I have learned in the years since then is that I actually was not lagging behind, but rather brought strengths and previous expertise with me from my former career. I now know that the learning between educators and software developers can be bidirectional.
+I am uniquely qualified to discuss the expertise that educators bring to coding because I have significant experience in K12 public education and as a professional software developer. Prior to becoming a developer I was a middle school teacher, a middle school assistant principal, a high school assistant principal and an education consultant. During my years in education the students, families, teachers, and administrators I worked with dramatically shaped who I am today, and thus the way I build software. I am now a senior engineer. I have delivered multiple projects with significant business impact and non trivial technical complexity. I have hired, on-boarded, trained, and mentored new engineers. I bring a depth of experience in both education and software that I hope will be compelling for Railsconf attendees.
 
 I am so excited by the prospect of telling the Rails community about my journey and what I've learned in the process.
 
