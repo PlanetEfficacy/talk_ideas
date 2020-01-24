@@ -1,132 +1,100 @@
-# Talk Ideas
-
-----
-
 ## Title
-## Session Format
-* [ ] Regular Session
-* [ ] Workshop
-## Track
-* [ ] General - No Suggested Track
-* [ ] Creative Communication - Talks in this track will focus on creative ways to answer the following: How do you bring colleagues up to speed on a piece of code or an entire system without launching into a lengthy monologue? Talks should delve into discussion of interesting alternative techniques used to convey dense, complicated information.
-* [ ] Everything ActiveSupport! - This track will feature talks on all the interesting ways to use ActiveSupport, including the gotchas and when to avoid them. Talks could focus on topics such as what's really going on inside these methods or interesting monkey patches in your projects that you think could be a part of ActiveSupport.
-* [ ] Exported Expertise - What non-tech experiences have given you an unexpected expertise in tech? This track will feature narratives about how exported expertises have helped in your tech journeys. Some examples are how working at a restaurant shaped your architectural understanding, or how caring for kids taught you to be a pull request star.
-* [ ] Identiy & Permissions - Authorization is about a lot more than just ‘gem install devise’. Talks in this track can cover authorization topics including: an introduction to the fundamentals of identity & permissions, in-depth discussions about specific implementations, or delves into the security issues around authorization.
-* [ ] Memorable Post-Mortems - Talks in this track will feature your favorite post-mortem stories, especially ones where you and your team learned a lot. Talks should delve into what happened, how it changed what you did going forward, and what lessons it could teach other developers.
-* [ ] Mentoring for Seniors - Some devs have been in the industry for years (or even decades!) but have never had the chance or need to mentor anyone... until they did. Talks in this track will share advice on becoming a mentor, especially takeaways for anyone who is very senior at code but very junior at mentoring.
-* [ ] Rails at Scale - What are teams doing to grow Rails applications beyond the first few thousand users? Talks in this track will focus on dealing with the challenges of developing an application as the load, traffic, team and application size increase. Talks should discuss the techniques, code patterns or work flows that emerged from those large applications, whether they ended up causing maintenance or performance headaches or resulted in improved productivity and throughput.
-* [ ] Rails Sans ActiveRecord - Not all Rails apps run with ActiveRecord. This track will discuss various ways of using Rails either without an ORM or with a different ORM as the data layer. Talks should touch on why you chose this setup, what it specifically looks like, and how it’s working for your team!
-* [ ] "Soft" Skills Are Hard! - So-called "soft" skills are actually quite difficult for many engineers, and yet, they are a vital part of a functional workplace. Things like communication, collaboration, organization, or any other "people" skills don't come naturally for many of us. Talks in this track aim to educate about non-technical -- but nevertheless vital -- aspects of the job. Talks can include favorite management and/or leadership techniques, or simply just things you wish other programmers knew that would make any workplace better.
-## Abstract
-##### A concise, engaging description for the public program. Limited to 600 characters.
-## Details
-##### Include any pertinent details such as outlines, outcomes or intended audience.
-## Pitch
-##### Explain why this talk should be considered and what makes you qualified to speak on the topic.
-## Bio
-##### Your bio should be short, no longer than 500 characters. It's related to why you're speaking about this topic.
-
-I am a software developer based out of Denver, Colorado. I currently work at Ibotta, a cash back for shopping mobile app whose mission is to save our users time and money. Before getting into the tech world, I worked in public K-12 education for 11 years in teaching, school leadership, and school consulting roles. I transitioned from education into technology by way of the Turing School of Software Design, a Denver based code school with a Ruby-centric curriculum.
-
-----
-
-## Title - The Rails Developer Olfactory Sense
-## Session Format
-* [x] Regular Session
-* [ ] Workshop
-## Track
-* [x] General - No Suggested Track
-* [ ] Creative Communication - Talks in this track will focus on creative ways to answer the following: How do you bring colleagues up to speed on a piece of code or an entire system without launching into a lengthy monologue? Talks should delve into discussion of interesting alternative techniques used to convey dense, complicated information.
-* [ ] Everything ActiveSupport! - This track will feature talks on all the interesting ways to use ActiveSupport, including the gotchas and when to avoid them. Talks could focus on topics such as what's really going on inside these methods or interesting monkey patches in your projects that you think could be a part of ActiveSupport.
-* [ ] Exported Expertise - What non-tech experiences have given you an unexpected expertise in tech? This track will feature narratives about how exported expertises have helped in your tech journeys. Some examples are how working at a restaurant shaped your architectural understanding, or how caring for kids taught you to be a pull request star.
-* [ ] Identiy & Permissions - Authorization is about a lot more than just ‘gem install devise’. Talks in this track can cover authorization topics including: an introduction to the fundamentals of identity & permissions, in-depth discussions about specific implementations, or delves into the security issues around authorization.
-* [ ] Memorable Post-Mortems - Talks in this track will feature your favorite post-mortem stories, especially ones where you and your team learned a lot. Talks should delve into what happened, how it changed what you did going forward, and what lessons it could teach other developers.
-* [ ] Mentoring for Seniors - Some devs have been in the industry for years (or even decades!) but have never had the chance or need to mentor anyone... until they did. Talks in this track will share advice on becoming a mentor, especially takeaways for anyone who is very senior at code but very junior at mentoring.
-* [ ] Rails at Scale - What are teams doing to grow Rails applications beyond the first few thousand users? Talks in this track will focus on dealing with the challenges of developing an application as the load, traffic, team and application size increase. Talks should discuss the techniques, code patterns or work flows that emerged from those large applications, whether they ended up causing maintenance or performance headaches or resulted in improved productivity and throughput.
-* [ ] Rails Sans ActiveRecord - Not all Rails apps run with ActiveRecord. This track will discuss various ways of using Rails either without an ORM or with a different ORM as the data layer. Talks should touch on why you chose this setup, what it specifically looks like, and how it’s working for your team!
-* [ ] "Soft" Skills Are Hard! - So-called "soft" skills are actually quite difficult for many engineers, and yet, they are a vital part of a functional workplace. Things like communication, collaboration, organization, or any other "people" skills don't come naturally for many of us. Talks in this track aim to educate about non-technical -- but nevertheless vital -- aspects of the job. Talks can include favorite management and/or leadership techniques, or simply just things you wish other programmers knew that would make any workplace better.
-## Abstract
-##### A concise, engaging description for the public program. Limited to 600 characters.
-## Details
-##### Include any pertinent details such as outlines, outcomes or intended audience.
-## Pitch
-##### Explain why this talk should be considered and what makes you qualified to speak on the topic.
-## Bio
-##### Your bio should be short, no longer than 500 characters. It's related to why you're speaking about this topic.
-
-I am a software developer based out of Denver, Colorado. I currently work at Ibotta, a cash back for shopping mobile app whose mission is to save our users time and money. Before getting into the tech world, I worked in public K-12 education for 11 years in teaching, school leadership, and school consulting roles. I transitioned from education into technology by way of the Turing School of Software Design, a Denver based code school with a Ruby-centric curriculum.
-
-----
-
-## Title
-
-
-Teaching Sauce: Confessions of a Recovering Educator
-
+Ideas:
+1. Teaching Sauce
+2. Confessions of a Recovering Educator
+3. Dead Coders Society
+4. Stand and Deliver... Software
+5. School of Rails
 
 ## Session Format
-* [x] Regular Session
-* [ ] Workshop
+Regular Session
+
 ## Track
-* [ ] General - No Suggested Track
-* [ ] Creative Communication - Talks in this track will focus on creative ways to answer the following: How do you bring colleagues up to speed on a piece of code or an entire system without launching into a lengthy monologue? Talks should delve into discussion of interesting alternative techniques used to convey dense, complicated information.
-* [ ] Everything ActiveSupport! - This track will feature talks on all the interesting ways to use ActiveSupport, including the gotchas and when to avoid them. Talks could focus on topics such as what's really going on inside these methods or interesting monkey patches in your projects that you think could be a part of ActiveSupport.
-* [x] Exported Expertise - What non-tech experiences have given you an unexpected expertise in tech? This track will feature narratives about how exported expertises have helped in your tech journeys. Some examples are how working at a restaurant shaped your architectural understanding, or how caring for kids taught you to be a pull request star.
-* [ ] Identiy & Permissions - Authorization is about a lot more than just ‘gem install devise’. Talks in this track can cover authorization topics including: an introduction to the fundamentals of identity & permissions, in-depth discussions about specific implementations, or delves into the security issues around authorization.
-* [ ] Memorable Post-Mortems - Talks in this track will feature your favorite post-mortem stories, especially ones where you and your team learned a lot. Talks should delve into what happened, how it changed what you did going forward, and what lessons it could teach other developers.
-* [ ] Mentoring for Seniors - Some devs have been in the industry for years (or even decades!) but have never had the chance or need to mentor anyone... until they did. Talks in this track will share advice on becoming a mentor, especially takeaways for anyone who is very senior at code but very junior at mentoring.
-* [ ] Rails at Scale - What are teams doing to grow Rails applications beyond the first few thousand users? Talks in this track will focus on dealing with the challenges of developing an application as the load, traffic, team and application size increase. Talks should discuss the techniques, code patterns or work flows that emerged from those large applications, whether they ended up causing maintenance or performance headaches or resulted in improved productivity and throughput.
-* [ ] Rails Sans ActiveRecord - Not all Rails apps run with ActiveRecord. This track will discuss various ways of using Rails either without an ORM or with a different ORM as the data layer. Talks should touch on why you chose this setup, what it specifically looks like, and how it’s working for your team!
-* [ ] "Soft" Skills Are Hard! - So-called "soft" skills are actually quite difficult for many engineers, and yet, they are a vital part of a functional workplace. Things like communication, collaboration, organization, or any other "people" skills don't come naturally for many of us. Talks in this track aim to educate about non-technical -- but nevertheless vital -- aspects of the job. Talks can include favorite management and/or leadership techniques, or simply just things you wish other programmers knew that would make any workplace better.
+Exported Expertise - What non-tech experiences have given you an unexpected expertise in tech? This track will feature narratives about how exported expertises have helped in your tech journeys. Some examples are how working at a restaurant shaped your architectural understanding, or how caring for kids taught you to be a pull request star.
+
 ## Abstract
-##### A concise, engaging description for the public program. Limited to 600 characters.
+##### A concise, engaging description for the public program. Limited to 600 characters. - no biographical info
 
-You do not need a learning and development manager who cannot code. Educators have expertise in getting up to speed on challenging material and then teaching it to someone else.
+How long is the line for the copy machine at your office each morning? When did a subordinate, superior or client last yell at you? What is your company's bathroom break policy?
 
-Does your onboarding consist of a lot of talking at new eningeers? Are you looking for ideas on getting new tech hires up to speed more quickly?
-
-Training up new engineers can be a comparitive advantage.
-
-I used to help kids get into college, but now I make coupons you can redeem on your phone! I am not embarassed about this, rather I am resentful. 
-
-I want to convince you to not pass up on the next teacher turned developer resume that crosses your desk.
-
-Many jobs have spillover effects on the rest of society.
-
-Teachers turned coders are a thing. Lets explore this phenomenon together and talk about what former educators bring to the world of software, what we can learn from them, and what this says about the state of our country.
-
-
+My status as a recovering educator may include some bitter memories, but it is not a handicap. It's a super power. Lets explore the phenomenon that is the teacher-turned-coder by looking at communication, planning and stress management practices in both school and software development contexts. You'll learn  how to harness your own teaching sauce to build better software more effectively.
 
 ## Details
-##### Include any pertinent details such as outlines, outcomes or intended audience.
+##### Include any pertinent details such as outlines, outcomes or intended audience. - no biographical info
 
-###### Objective: Participants will be able to 
+### Objective: Participants will be able to draw comparisons between teaching and programming in a way that provides them with either 1. increased awareness of their own practice or 2. next steps for improving their practice.
 
+### Argument
+- Educators make great software developers because of their expertise in:
+  1. Verbal communication
+  2. Written communication
+  3. Planning
+  4. Stress management
 
-__Hook__
-- Getting to know the room: Raise your hand if you are a former educator.
+### Outline
+#### Intro
+- Provide context regarding the phenomenon of educators turned coders including short personal story accompanied by industry-wide statistics
+- Introduce argument that educators make great software developers because of their expertise in verbal communication, written communication, planning and stress management
+- Describe the goal of the talk: We want to bring increased mindfullness to our own practice as software developers informed by anecdotes from teachers and best practice from the field of education
 
-__Argument__
-- Educators make great software developers because of their expertise in three areas: communication, planning, and the ephemeral teaching sauce.
+#### Verbal Communication
+##### How educators develop effective verbal communication
+  - Facilitating and leading classroom instruction
+  - Students provide quick feedback when verbal communication is ineffective
+    - Anecdote of lesson gone awry
+##### How verbal communication applies to software development
+  - Technical presentations
+  - Mentoring and onboarding new engineers
+  - Explaining technical topics to technical and non technical audiences
+##### Tips for improving verbal communication
+  - Check for understanding
+#### Written Communication
+##### How educators develop effective written communication
+  - Authoring student facing instructional materials
+  - Grading student work
+  - Again, students provide quick feedback when written communication is ineffective
+##### How written communication applies to software development
+  - Pull request reviews
+  - Formal documentation
+  - Creating clear names for variables, methods, classes
+##### Tips for improving written communication
+  - Empathize with your audience
+#### Planning
+##### How educators develop effective planning
+  - Curriculum design involves goal setting and working backwards, systematically and incrementally
+  - Educators plan under difficult constraints - time, student needs, external constraints (standardized testing etc)
+    - Often this planning is done collaboratively with partner educators or in the context of teams of educators
+##### How planning applies to software development
+  - Planning complex technical projects happens collaboratively with teams of engineers, product mangers, and other stakeholders
+  - Backwards planning is very similar to test driven development
+##### Tips for improving planning
+  - Plan with the end in mind at micro and macro scales
+#### Stress Management
+##### How educators develop effective stress management
+  - Schools are demanding, stressful, high stakes work environments
+  - Students, parents and other eductors are demanding customers
+##### How stress management applies to software development
+  - Production bugs
+  - On call rotations
+##### Tips for improving planning
+  - Keeping the big picture in perspective
+#### Conclusion and Q&A
 
-__Outline__
-- Provide brief context regarding the phenomenon of educators turned coders including short personal anecdote accompanied by industry-wide statistics
-| Exported Expertise | Why are Educators good at this?                                                                                    | What areas of Software Development does this strength apply? |
-|--------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Communication| Part of the job of an educator is to get up to speed on challenging material and then teaching it to someone else. | Onboarding, Mentoring, Code Reviews, Technical presentations |
-| Backwards Planning | Teachers plan with the end in mind - curriculum, unit and lesson planning | Project planning, handling scope creep, test driven development |
-| Teaching Sauce | Many educators come from stressful, demanding, high stakes work environments. As a result educators can bring calm to tough situations and help maintain a healthy perspective at work. | Production issues, office stress |
 
 ## Pitch
-##### Explain why this talk should be considered and what makes you qualified to speak on the topic.
+##### Explain why this talk should be considered and what makes you qualified to speak on the topic.  - no biographical info
 
-I have significant experience in K12 public education - at the classroom, school, and system level - prior to becoming a software developer. The students, families, teachers, and administrators I worked with dramatically shaped who I am today, and thus the way I build software. While the education sphere certainly has a lot to learn from the technology world, the learning can be bidirectional.
+This talk should be on the 2020 Railsconf program because communication, planning, and stress management are hard. Understanding how these skills can be developed and practiced in a non-software context will empower participants to be more mindful of and potentially even more effective in their own practice. If a group of 2020 Railsconf attendees leave the conference with ideas on how to be better themselves or help others improve in these areas, it will have been time well spent.
 
-In particular the Rails community 
+I am uniquely qualified to discuss the expertise that educators bring to coding because I have significant experience in K12 public education and as a professional software developer. Prior to becoming a developer I was a middle school teacher, a middle school assistant principal, a high school assistant principal and an education consultant. During my years in education the students, families, teachers, and administrators I worked with dramatically shaped who I am today, and thus the way I build software. I am now a senior engineer. I have delivered multiple projects with significant business impact and non trivial technical complexity. I have hired, onboarded, trained, and mentored new engineers. I bring a depth of experience in both education and software that I hope will be compelling for Railsconf attendees.
+
+When I started work as a software engineer I felt like an imposter and this feeling was exacerbated by the fact that I had left a reasonably successful career in education. I knew the education world had a lot to learn from software developers, which was one of the reasons I wanted to make a change. I worried that I was too far behind my colleagues to ever make a meaningful contribution to my team or advance in my new field. What I have learned in the years since then is that I actually was not lagging behind, but rather brought strengths and previous expertise with me from my former career. I now know that the learning between educators and software developers can be bidirectional.
+
+I am so excited by the prospect of telling the Rails community about my journey and what I've learned in the process.
 
 ## Bio
 ##### Your bio should be short, no longer than 500 characters. It's related to why you're speaking about this topic.
 
-Jesse Spevakc is a father of twins, skier, marathoner, and Senior Platform Engineer at Ibotta, a cash back for shopping app whose mission is to make every purchase rewarding. Before getting into the tech world, Jesse worked in public K-12 education for 11 years in teaching, school leadership, and school consulting roles. Jesse transitioned from education into technology by way of the Turing School of Software Design, a Denver based code school with a Ruby-centric curriculum and deep ties to the Rails community.
+Jesse Spevack is a father of twins, skier, marathoner, and Senior Platform Engineer at Ibotta, a cash back for shopping app whose mission is to *make every purchase rewarding*. Before getting into the tech world, Jesse worked in public K-12 education for 11 years in teaching, school leadership, and school consulting roles. Jesse transitioned from education into technology by way of the Turing School of Software Design, a Denver based code school with a Ruby-centric curriculum and deep ties to the Rails community.
 
 ----
