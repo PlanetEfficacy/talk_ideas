@@ -11,15 +11,15 @@ Regular Session
 # Abstract
 ##### A concise, engaging description for the public program. Limited to 600 characters.
 
-Moving functionality from a majestic monolith to a microservice is hard.
+Micro/service oriented architecture promises system encapsulation and team autonomy. However, this can come at the cost of complexity in the form of devops infrastructure and the proliferation of multiple frameworks and languages. One thing is for sure: moving functionality from a monolith to a microservice is hard.
 
-In this talk, participants will learn about the mistakes I made while extracting functionality from a majestic monolith into a microservice so they do not have to repeat them in their own service architecture adventures, or better yet, skip the adventure altogether.
+Learn about the mistakes I made while extracting business logic from a Rails monolith into a  microservice so you will not have to repeat them on your own microservice misadventure. At the end, maybe you'll decide to skip the adventure altogether.
 
 # Details
 ##### Include any pertinent details such as outlines, outcomes or intended audience.
 
 ## Argument
-Microservice architecture promises system encapsulation, modularity, and team autonomy. However, this comes at the cost of complexity in the form of devops infrastructure and the proliferation of multiple frameworks and languages. Through my experience extracting a microservice from a Rails monolith I have come to agree with DHH's blog post "The Majestic Monolith," which argued that the only justification for microservice architecture is to fit the organizational needs of very large companies. Any other benefit can be achieved within a majestic monolith and at much less cost.
+Through my experience extracting a microservice from a Rails monolith I have come to agree with DHH's blog post "The Majestic Monolith," which argued that the only justification for microservice architecture is to fit the organizational needs of very large companies. Any other benefit can be achieved within a majestic monolith and at much less cost.
 
 ## Background Context
 - I work at a company with ~600 employees, ~130 developers
@@ -28,12 +28,11 @@ Microservice architecture promises system encapsulation, modularity, and team au
 
 ## Why did we choose a microservice architecture
 - Conway's Law - "Any organization that designs a system will inevitably produce a design whose structure is a copy of the organization's communication structure."
-- The assumption that Rails was not the right tool for the job
 
 ## Microservice Misadventures
 - Discuss key decisions we made, how they hurt us, and what we should have done instead
 
-### Misadventure Decision 1: Let the new person pick the technology
+### Misadventure Decision 1: Picking the wrong technology 
 #### Bad decision:
 Our new teammate felt pretty strongly that we should be using Scala and Akka for this particular service and we compromised with Kotlin, Spring and Akka.
 #### How did this decision hurt us:
