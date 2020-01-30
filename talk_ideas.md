@@ -1,10 +1,5 @@
 ## Title
-Ideas:
-1. Teaching Sauce
-2. Confessions of a Recovering Educator
-3. Dead Coders Society
-4. Stand and Deliver... Software
-5. School of Rails
+Confessions of a Recovering Educator
 
 ## Session Format
 Regular Session
@@ -17,31 +12,53 @@ Exported Expertise - What non-tech experiences have given you an unexpected expe
 
 How long is the line for the copy machine at your office each morning? When did a subordinate, superior or customer last yell at you? What is your company's bathroom break policy?
 
-My status as a recovering educator may include some bitter memories, but it is not a handicap. It's a super power. Lets explore the phenomenon that is the teacher-turned-coder by looking at communication, planning and stress management practices in both school and software development contexts. You'll learn  how to harness your own teaching sauce to build better software more effectively.
+My status as a recovering educator may include some bitter memories, but it is not a handicap. It is a super power from which I've learned valuable communication and stress management skills that are highly applicable to our work in software. Let's explore the phenomenon that is the teacher-turned-coder by exploring what skills I brought from the classroom, how I applied them in the software development context, and most importantly how you can apply your own unseen and unknown skills to build better software more effectively.
 
 ## Details
 ##### Include any pertinent details such as outlines, outcomes or intended audience. - no biographical info
 
-### Objective: Participants will be able to draw comparisons between teaching and programming in a way that provides them with either 1. increased awareness of their own practice or 2. next steps for improving their practice.
-
-### Argument
-- Educators make great software developers because of their expertise in:
-  1. Verbal communication
-  2. Written communication
-  3. Planning
-  4. Stress management
-
 ### Outline
-#### Intro
-- Provide context regarding the phenomenon of educators turned coders including short personal story accompanied by industry-wide statistics
-- Introduce argument that educators make great software developers because of their expertise in verbal communication, written communication, planning and stress management
-- Describe the goal of the talk: We want to bring increased mindfullness to our own practice as software developers informed by anecdotes from teachers and best practice from the field of education
 
-#### Verbal Communication
-##### How educators develop effective verbal communication
-  - Facilitating and leading classroom instruction
-  - Students provide quick feedback when verbal communication is ineffective
-    - Anecdote of lesson gone awry
+#### Objective
+
+Participants will be able to
+
+
+#### Communication
+
+##### What did you learn outside of your coding education, that you've brought to your software career?
+Outside of my coding education I learned how to facilitate classroom instruction, give written feedback, mentor students and coach other educators, and work with parents and families.
+
+##### How did you export that expertise? What did you do to build on that skill when you needed it in software?
+Many of these core communication functions above were applicable in my software development career. For example:
+- Facilitating classroom instruction => Technical presentations
+- Written feedback => Code review
+- Mentoring new engineers => Coaching other educators & mentoring students
+
+##### How might an attendee find and apply their unseen unknown skills, and export their expertise?
+
+
+#### Planning
+
+##### What did you learn outside of your coding education, that you've brought to your software career?
+Curriculum design and lesson planning
+
+##### How did you export that expertise? What did you do to build on that skill when you needed it in software?
+
+##### How might an attendee find and apply their unseen unknown skills, and export their expertise?
+
+#### Stress Management
+
+##### What did you learn outside of your coding education, that you've brought to your software career?
+Long hours, high stakes, lots of competing demands for time and attention
+
+##### How did you export that expertise? What did you do to build on that skill when you needed it in software?
+
+##### How might an attendee find and apply their unseen unknown skills, and export their expertise?
+
+
+
+
 ##### How verbal communication applies to software development
   - Technical presentations
   - Mentoring and onboarding new engineers
