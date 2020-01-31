@@ -11,8 +11,6 @@ Regular Session
 # Abstract
 ##### A concise, engaging description for the public program. Limited to 600 characters.
 
-Micro/service oriented architecture promises system encapsulation and team autonomy. However, this can come at the cost of complexity in the form of devops infrastructure and the proliferation of multiple frameworks and languages. One thing is for sure: moving functionality from a monolith to a microservice is hard.
-
 Learn about the mistakes I made while extracting business logic from a Rails monolith into a  microservice so you will not have to repeat them on your own microservice misadventure. At the end, maybe you'll decide to skip the adventure altogether.
 
 # Details
@@ -32,34 +30,42 @@ Through my experience extracting a microservice from a Rails monolith I have com
 ## Microservice Misadventures
 - Discuss key decisions we made, how they hurt us, and what we should have done instead
 
-### Misadventure Decision 1: Picking the wrong technology 
+### Misadventure Decision 1: Picking the wrong technology
+
 #### Bad decision:
 Our new teammate felt pretty strongly that we should be using Scala and Akka for this particular service and we compromised with Kotlin, Spring and Akka.
+
 #### How did this decision hurt us:
 Our teammate was the only person in the organization with any experience with Akka. Further more, our teammate decided to leave the team before the microservice was fully complete.
+
 #### What we should have done instead:
 Used Rails, Sinatra, or Java and Spring, technologies that are more prolific in our organization
 
 ### Misadventure Decision 2: Divide the Work by Application
+
 #### Bad decision:
 Our new teammate took on all of the stories for building the microservice. I took on all of the stories integrating the microservice with our existing monolith.
+
 #### How did this decision hurt us:
 This division of labor resulted in silo-ed knowledge. Neither of us had any idea how the other's system worked.
+
 #### What we should have done instead:
 Even though this would have slowed us down, we should have been working in both domains to prevent the silo-ing of knowledge
 
 ### Misadventure Decision 3: Premature Optimization
+
 #### Bad decision:
-There are so many examples of areas where we opted to preamaturely optimize our system rather than shipping an mvp.
+There are so many examples of areas where we opted to prematurely optimize our system rather than shipping an mvp.
 - Implemented caching before we were even getting traffic
 - Processing multiple data streams in parallel
 - Overly complicated DDB tables tracking unnecessary info
-- Trying to improve core business logic - in other words making too many changes at one time
+- Trying to move and improve core business logic - in other words making too many changes at one time
+
 #### How did this decision hurt us:
 It was tough to debug mission critical functionality because of all of the unnecessary optimizations and features that laid groundwork for future features that either will likely never be developed.
+
 #### What we should have done instead:
 Replicated the smallest possible unit of value for the business and iterate.
-
 
 ## Pitch
 
