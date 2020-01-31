@@ -21,8 +21,7 @@ My status as a recovering educator may include some bitter memories, but it is n
 
 #### Objective
 
-Participants will be able to
-
+Participants will be able to apply their own unseen and unknown skills to build better software more effectively.
 
 #### Communication
 
@@ -30,73 +29,37 @@ Participants will be able to
 Outside of my coding education I learned how to facilitate classroom instruction, give written feedback, mentor students and coach other educators, and work with parents and families.
 
 ##### How did you export that expertise? What did you do to build on that skill when you needed it in software?
-Many of these core communication functions above were applicable in my software development career. For example:
+Many of these core communication functions above were applicable in my software development career. To build on these skills that I honed as an educator I sought out areas where they were needed and applicable, for example:
 - Facilitating classroom instruction => Technical presentations
-- Written feedback => Code review
-- Mentoring new engineers => Coaching other educators & mentoring students
-
-##### How might an attendee find and apply their unseen unknown skills, and export their expertise?
-
+- Written feedback => Code review, documentation, naming things
+- Mentoring new engineers => Coaching other educators & mentoring students, checking for understanding
 
 #### Planning
 
 ##### What did you learn outside of your coding education, that you've brought to your software career?
-Curriculum design and lesson planning
+Outside of my coding education I learned how to plan with the end in mind. For example, when planning a course of study, a unit, or even a single lesson I asked myself what should students be able to do or know at the end of this. From that point I would plan backwards, asking what is the thing that immediately proceeds achieving this goal and what proceeds that and so on.
 
 ##### How did you export that expertise? What did you do to build on that skill when you needed it in software?
-
-##### How might an attendee find and apply their unseen unknown skills, and export their expertise?
+Planning is also a key piece of an educator's job that is analogous to the work of the developer at the micro and macro scales. To build on these skills that I honed as an educator I looked again for areas of the work that felt familiar.
+- Test driven development is a form of planning with the end in mind.
+- Project planning and systems design typically involves teams of educators, which is similar to working on a squad with other engineers and a product manager.
 
 #### Stress Management
 
 ##### What did you learn outside of your coding education, that you've brought to your software career?
-Long hours, high stakes, lots of competing demands for time and attention
+Educators face long hours, high stakes, and lots of competing demands for time and attention. You need to have stress management strategies in this kind of environment.
 
 ##### How did you export that expertise? What did you do to build on that skill when you needed it in software?
+Stress comes up in many fields and having experience in the high stakes education world helped me keep my work as a software developer in perspective even when facing the most stressful situations such as:
+- Production bugs
+- Getting stuck
+- Project delays
+- On call duty
 
-##### How might an attendee find and apply their unseen unknown skills, and export their expertise?
-
-
-
-
-##### How verbal communication applies to software development
-  - Technical presentations
-  - Mentoring and onboarding new engineers
-  - Explaining technical topics to technical and non technical audiences
-##### Tips for improving verbal communication
-  - Check for understanding
-#### Written Communication
-##### How educators develop effective written communication
-  - Authoring student facing instructional materials
-  - Grading student work
-  - Again, students provide quick feedback when written communication is ineffective
-##### How written communication applies to software development
-  - Pull request reviews
-  - Formal documentation
-  - Creating clear names for variables, methods, classes
-##### Tips for improving written communication
-  - Empathize with your audience
-#### Planning
-##### How educators develop effective planning
-  - Curriculum design involves goal setting and working backwards, systematically and incrementally
-  - Educators plan under difficult constraints - time, student needs, external constraints (standardized testing etc)
-    - Often this planning is done collaboratively with partner educators or in the context of teams of educators
-##### How planning applies to software development
-  - Planning complex technical projects happens collaboratively with teams of engineers, product mangers, and other stakeholders
-  - Backwards planning is very similar to test driven development
-##### Tips for improving planning
-  - Plan with the end in mind at micro and macro scales
-#### Stress Management
-##### How educators develop effective stress management
-  - Schools are demanding, stressful, high stakes work environments
-  - Students, parents and other educators are demanding customers
-##### How stress management applies to software development
-  - Production bugs
-  - On call rotations
-##### Tips for improving planning
-  - Keeping the big picture in perspective
-#### Conclusion and Q&A
-
+#### How might an attendee find and apply their unseen unknown skills, and export their expertise?
+I think this is a key point so much of software development can feel alien at first so it is really important to hold on to the areas that are familiar that can anchor growth, learning, and productivity. Tips for finding and applying unseen unknown skills:
+- What feels familiar about software development?
+- What made your past work unique or interesting?
 
 ## Pitch
 ##### Explain why this talk should be considered and what makes you qualified to speak on the topic.  - no biographical info
